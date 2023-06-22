@@ -113,3 +113,16 @@ button:hover {
 .digits button:active {
   background-color: hsl(218, 33%, 50%);
 }
+
+.author {
+  position: absolute;
+  bottom: 15%;
+  font-size: 30px;
+  opacity: 0;
+  transition: 0.5s;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.author:hover {
+  opacity: 1;
+}

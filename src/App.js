@@ -84,6 +84,8 @@ function App() {
           <button onClick={calclate}>=</button>
         </div>
       </div>
+
+      <div className="author">SaidBl1</div>
     </div>
   );
 }
