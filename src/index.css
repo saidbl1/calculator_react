@@ -63,6 +63,15 @@ button {
   padding: 16px;
   cursor: pointer;
   transition: 200ms;
+
+  /* appearance: none;
+  border: none;
+  outline: none;
+  color: var(--font);
+  font-size: 20px;
+  padding: 16px;
+  cursor: pointer;
+  transition: 200ms; */
 }
 
 button:hover {
